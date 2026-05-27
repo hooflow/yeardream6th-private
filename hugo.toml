@@ -2,6 +2,7 @@ baseURL = "https://hooflow.github.io/"
 locale = "ko"
 title = "hooflow 블로그"
 theme = "PaperMod"
+googleAnalytics = "G-LM3TLK27FK"
 
 [params]
   description = "hooflow의 기술 블로그"
