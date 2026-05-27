@@ -1,0 +1,7 @@
+baseURL = "https://hooflow.github.io/"
+languageCode = "ko"
+title = "hooflow 블로그"
+theme = "PaperMod"
+
+[params]
+  description = "hooflow의 기술 블로그"
