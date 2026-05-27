@@ -1,5 +1,5 @@
 baseURL = "https://hooflow.github.io/"
-languageCode = "ko"
+locale = "ko"
 title = "hooflow 블로그"
 theme = "PaperMod"
 
